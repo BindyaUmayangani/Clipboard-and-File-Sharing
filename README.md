@@ -2,9 +2,9 @@
 
 This is a simple LAN-based web application that allows devices on the same Wi-Fi network to:
 
-✅ Discover each other
-💬 Chat in real-time
-📋 Share clipboard text
+- ✅ Discover each other
+- 💬 Chat in real-time
+- 📋 Share clipboard text
 
 ## 🚀 Features
 
