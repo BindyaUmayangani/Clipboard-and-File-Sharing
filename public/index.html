@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LAN Share App</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <h1>LAN Share</h1>
+  <p>Your device is now visible to others!</p>
+  <div id="devices"><strong>Connected Devices:</strong></div>
+
+  <h2>Chat</h2>
+  <input type="text" id="chat-input" placeholder="Type a message..." />
+  <button id="send-chat">Send</button>
+  <div id="chat-box"></div>
+
+  <h2>Clipboard</h2>
+  <input type="text" id="clipboard-input" placeholder="Paste text here" />
+  <button id="send-clipboard">Share</button>
+  <div id="clipboard-output"></div>
+
+  <h2>File Sharing</h2>
+  <input type="file" id="file-input" />
+  <button id="send-file">Upload</button>
+  <div id="file-links"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
