@@ -8,12 +8,12 @@ This is a simple LAN-based web application that allows devices on the same Wi-Fi
 
 ## 🚀 Features
 
--🔒 Peer discovery over WebSocket
--💬 Real-time messaging
--📋 Copy-paste text sharing
--💻📱 Emoji icons for different device types
--📡 Automatic device listing
--⚡ Lightweight and fast
+- 🔒 Peer discovery over WebSocket
+- 💬 Real-time messaging
+- 📋 Copy-paste text sharing
+- 💻📱 Emoji icons for different device types
+- 📡 Automatic device listing
+- ⚡ Lightweight and fast
 
 ## 🛠️ Requirements
 
